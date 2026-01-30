@@ -6,5 +6,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Driver {
 	
 	 WebDriver driver = new ChromeDriver();
+	 private void Sysu() {
+		// TODO Auto-generated method stub
+
+	}
+	 
 
 }
