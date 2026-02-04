@@ -8,6 +8,7 @@ public class Driver {
 	 WebDriver driver = new ChromeDriver();
 	 private void Sysu() {
 		// TODO Auto-generated method stub
+		 System.out.println("hello main");
 
 	}
 	 
