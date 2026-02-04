@@ -6,11 +6,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Driver {
 	
 	 WebDriver driver = new ChromeDriver();
-	 private void Sysu() {
+	 private void Syso() {
 		// TODO Auto-generated method stub
+
 		 System.out.println("hello main");
+		 System.out.println("hell branch");
+
+	}
+
 
 	}
 	 
 
-}
+
