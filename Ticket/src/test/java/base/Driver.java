@@ -8,14 +8,23 @@ public class Driver {
 	 WebDriver driver = new ChromeDriver();
 	 private void Syso() {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 
-		 System.out.println("hello main");
-		 System.out.println("hell branch");
+		
+		 
+
+	}
+
+
+	}
+=======
+		 System.out.println("hello branch");
+		 System.out.println("hello i am into branch");
 
 	}
 
-
-	}
+	
+>>>>>>> search1
 	 
 
 
